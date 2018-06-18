@@ -1,0 +1,23 @@
+{
+  "name": "trappel-app",
+  "version": "0.0.1",
+  "description": "este es el front-end de nuestra aplicacion",
+  "main": "install.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenF5/Trappel-app.git"
+  },
+  "author": "Trappel Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RubenF5/Trappel-app/issues"
+  },
+  "homepage": "https://github.com/RubenF5/Trappel-app#readme",
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "*"
+  }
+}
